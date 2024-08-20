@@ -2,6 +2,8 @@
 
 # Title: Predict Brand Preference
 
+# Author: Marlon Roa
+
 # Last update: 2021.10
 
 
